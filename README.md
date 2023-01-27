@@ -1,1 +1,1 @@
-# RepositoryPatternWithUOW
+This is a project where I take my first steps to learn repository pattern. This code purpose is documenting my steps learning backend development with ASP.Net I wrote this code following this playlist: https://www.youtube.com/playlist?list=PL62tSREI9C-e6nQ47brLj00iSGddiee73
